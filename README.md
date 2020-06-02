@@ -1,10 +1,11 @@
-# Getting started with git & GitHub
+# Getting started with Git & GitHub
 
 Right now, this repository contains only these instructions. Your mission, should you choose to accept it, is to add a new file containing your name, one sentence about how you're feeling about Code for Good, and one thing you want to learn this summer.
 
 The name of this file should be your_name.txt, so I would upload a file called `caroline_kaufman.txt`, and it might say:
 
-```Caroline Kaufman
+```
+Caroline Kaufman
 
 I'm super excited about Code for Good, really happy to reconnect with students I've seen around Halligan and friends who graduated ahead of me, and psyched to see what this awesome team can achieve this summer!
 
